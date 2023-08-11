@@ -9,7 +9,7 @@
 
 
 ## Todos
-![Todos](https://github.com/Nuf1i/todo-redux/blob/main/public/todos.png)
+![Todos](https://github.com/Nuf1i/todo-redux/blob/main/public/todo.png)
 
 ## Add
 ![Add](https://github.com/Nuf1i/todo-redux/blob/main/public/add.png)
